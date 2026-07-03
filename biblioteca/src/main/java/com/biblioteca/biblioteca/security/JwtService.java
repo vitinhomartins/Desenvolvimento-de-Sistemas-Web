@@ -13,7 +13,7 @@ import java.util.Date;
 @Service
 public class JwtService {
 
-    private static final String SECRET_KEY = "minha-chave-super-secreta-para-biblioteca-jwt-2026";
+    private static final String SECRET_KEY = "top-de-linha-top-de-linha-top-de-linha-top-de-linha-top-de-linha";
     private static final long EXPIRATION_TIME = 1000 * 60 * 60; // 1 hora
 
     private Key getSigningKey() {
